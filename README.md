@@ -4,14 +4,14 @@ This is a platformer game that involves collecting all coins and reaching the fl
 
 ## How to Play
 
-1. Use the arrow keys to move the character.
-2. Press the up arrow key to jump.
+1. Use the wasd keys to move the character.
+2. Press the w arrow key to jump.
 3. Collect all coins in the level.
 4. Reach the flag at the end of the level to complete it.
 
 ## Screenshots
 
-Add screenshots of your game here to showcase the gameplay and graphics.
+![image](https://user-images.githubusercontent.com/22949648/225898809-38301269-f644-40fc-821e-9366c3b5772c.png)
 
 ## Technologies Used
 
