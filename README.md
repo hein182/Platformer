@@ -5,7 +5,7 @@ This is a platformer game that involves collecting all coins and reaching the fl
 ## How to Play
 
 1. Use the wasd keys to move the character.
-2. Press the w arrow key to jump.
+2. Press the w key to jump.
 3. Collect all coins in the level.
 4. Reach the flag at the end of the level to complete it.
 
