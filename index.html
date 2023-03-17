@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Platformer</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/index.css">
+    <!-- never put script here when using canvas ever -->
+</head>
+<body>
+    <header>
+        <h1>Platformer Example</h1>
+    </header>
+    <main>
+        <!-- create a songplayer -->
+        <audio id="song" src="./audio/bgMusic.mp3" loop></audio>
+        <div id="menu">
+            <h3>Main Menu</h3>
+            <button id="startButton" onclick=startGame()> Start Game</button>
+        </div>
+        <canvas id="myCanvas" width="800" height="800">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+    </main>
+    <footer>
+       <p>Created by Richard Claytemple</p> 
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
