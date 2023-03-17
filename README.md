@@ -15,20 +15,20 @@ This is a platformer game that involves collecting all coins and reaching the fl
 
 ## Technologies Used
 
-List the programming languages, frameworks, and libraries used in developing the game.
+JavaScript HTML CSS.
 
 ## Installation
 
-Include instructions on how to install and run the game locally on a user's machine.
+Just Download ZIP or clone and run index.html
 
 ## Usage
 
-Explain how to play the game and navigate through its menus.
+Press Escape key to view Menu and Start Game 
 
 ## Credits
 
-List all contributors and resources used in developing the game.
+Visual Studio Code
 
 ## License
 
-Include the license under which the game is released.
+Github.com
